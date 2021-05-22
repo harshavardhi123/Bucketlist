@@ -1,0 +1,7 @@
+* text=auto
+*.css linguist-vendored
+*.scss linguist-vendored
+*.js linguist-vendored
+CHANGELOG.md export-ignore
+vscode://vscode.github-authentication/did-authenticate?windowid=1&code=bc24592049848642578c&state=a363db7f-6514-41e5-a308-45c835fc5cea
+
