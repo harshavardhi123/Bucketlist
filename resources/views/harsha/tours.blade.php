@@ -278,9 +278,7 @@ http://www.templatemo.com/tm-475-holiday
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-lg-12">
-					<p class="home-description">Book Your Vacation before it's occupied.
-					</p>					
+				<div class="col-lg-12">					
 				</div>
 			</div>	
 		</div>
