@@ -10,11 +10,11 @@ Holiday Template
 http://www.templatemo.com/tm-475-holiday
 -->
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,700' rel='stylesheet' type='text/css'>
-  <link href="<?php echo url('/'); ?>/css/font-awesome.min.css" rel="stylesheet">
-  <link href="<?php echo url('/'); ?>/css/bootstrap.min.css" rel="stylesheet">
-  <link href="<?php echo url('/'); ?>/css/bootstrap-datetimepicker.min.css" rel="stylesheet"> 
-  <link href="<?php echo url('/'); ?>/css/flexslider.css" rel="stylesheet"> 
-  <link href="<?php echo url('/'); ?>/css/templatemo-style.css" rel="stylesheet">
+  <link href="css/font-awesome.min.css" rel="stylesheet">
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/bootstrap-datetimepicker.min.css" rel="stylesheet">  
+  <link href="css/flexslider.css" rel="stylesheet">
+  <link href="css/templatemo-style.css" rel="stylesheet">
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -290,12 +290,12 @@ http://www.templatemo.com/tm-475-holiday
 			</div>
 		</div>		
 	</footer>
-	<script type="text/javascript" src="<?php echo url('/'); ?>/js/jquery-1.11.2.min.js"></script>      		<!-- jQuery -->
-  	<script type="text/javascript" src="<?php echo url('/'); ?>/js/moment.js"></script>							<!-- moment.js -->
-	<script type="text/javascript" src="<?php echo url('/'); ?>/js/bootstrap.min.js"></script>					<!-- bootstrap js -->
-	<script type="text/javascript" src="<?php echo url('/'); ?>/js/bootstrap-datetimepicker.min.js"></script>	<!-- bootstrap date time picker js, http://eonasdan.github.io/bootstrap-datetimepicker/ -->
-	<script type="text/javascript" src="<?php echo url('/'); ?>/js/jquery.flexslider-min.js"></script>
-   	<script type="text/javascript" src="<?php echo url('/'); ?>/js/templatemo-script.js"></script>      		<!-- Templatemo Script -->
+	<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>      		<!-- jQuery -->
+  	<script type="text/javascript" src="js/moment.js"></script>							<!-- moment.js -->
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>					<!-- bootstrap js -->
+	<script type="text/javascript" src="js/bootstrap-datetimepicker.min.js"></script>	<!-- bootstrap date time picker js, http://eonasdan.github.io/bootstrap-datetimepicker/ -->
+	<script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
+	<script type="text/javascript" src="js/templatemo-script.js"></script>      		<!-- Templatemo Script -->
 	<script>
 		// HTML document is loaded. DOM is ready.
 		$(function() {
