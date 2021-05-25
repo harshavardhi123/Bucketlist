@@ -39,7 +39,7 @@ http://www.templatemo.com/tm-475-holiday
 	  				<nav class="tm-nav">
 						<ul>
 							<li><a href="/">Home</a></li>
-							<li><a href="/about" class="active">About Us</a></li>
+							<li><a href="/about" class="active">About</a></li>
 							<li><a href="/tours">Our Tours</a></li>
 							<li><a href="/contact">Contact Us</a></li>
 						</ul>
