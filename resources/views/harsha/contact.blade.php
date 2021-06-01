@@ -138,7 +138,7 @@ http://www.templatemo.com/tm-475-holiday
 	<footer class="tm-black-bg">
 		<div class="container">
 			<div class="row">
-				<p class="tm-copyright-text">Copyright &copy; 2084 Your Company Name</p>
+				<p class="tm-copyright-text">Copyright &copy; 2021 @DESTINATION-1</p>
 			</div>
 		</div>		
 	</footer>
